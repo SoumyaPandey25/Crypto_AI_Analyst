@@ -1,0 +1,9 @@
+{
+  "name": "team1-india-crypto-ai",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend",
+    "contracts"
+  ]
+}
